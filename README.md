@@ -1,4 +1,4 @@
-## ScraPing.py
+## Ping Scraper
 
 Plots server-to-server latency as a function of user-defined intervals.
 
